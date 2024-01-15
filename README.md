@@ -1,9 +1,9 @@
 # Comparison of Bicubic and SRCNN methods
 
-![With SRCNN:](figure/SRCNN)
+![With SRCNN:](figure/SRCNN.png)
 
-![With Bicubic:](figure/Bicubic)
+![With Bicubic:](figure/Bicubic.png)
 
-![High resolution Groud Truth:](figure/GT)
+![High resolution Groud Truth:](figure/GT.png)
 
-![Training plot for CNN model:](figure/plot)
+![Training plot for CNN model:](figure/plot.png)
